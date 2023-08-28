@@ -10,4 +10,12 @@
       <ProjectReference Include="..\SelfCompany.Eshop.Domain\SelfCompany.Eshop.Domain.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Install" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.3" />
+    </ItemGroup>
+
 </Project>
