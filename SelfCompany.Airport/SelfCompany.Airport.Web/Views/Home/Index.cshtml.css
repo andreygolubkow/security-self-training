@@ -1,0 +1,5 @@
+.airport-photo{
+    filter: grayscale(70%) brightness(70%);
+    height: 500px;
+    object-fit: cover;
+}
